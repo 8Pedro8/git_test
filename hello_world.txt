@@ -1,2 +1,8 @@
+<<<<<<< main
 int x = 222;
 print("Hello World!");
+=======
+int x = 0;
+print("Hello World!");
+/* test from ipad test */
+>>>>>>> origin/main
